@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StimaVeloce</string>
+    <string name="edit">Inserisci il nome del nuovo rilievo</string>
+    <string name="condividitextview">Rilievo</string>
+    <string name="titolocondividi">Esporta e condividi progetto</string>
+    <string name="diametrominimocondividi">Diametro minimo</string>
+    <string name="intervallocondividi">Intervallo classi</string>
+    <string name="checklarice">Larice</string>
+    <string name="checkabete">Abete rosso</string>
+    <string name="checkfaggio">Faggio</string>
+    <string name="checkabeteb">Abete bianco</string>
+    <string name="checkpinos">Pino silvestre</string>
+    <string name="checkpinoc">Pino cembro</string>
+    <string name="checkpinon">Pino nero</string>
+    <string name="titoloopen">Apri rilievo</string>
+    <string name="etemail">e-mail</string>
+    <string name="etnome">nome</string>
+    <string name="etpsw">password</string>
+    <string name="buttonlogin">LOGIN</string>
+    <string name="buttonregister">REGISTRATI</string>
+    <string name="textregistrati"><u>Registrati</u></string>
+    <string name="totale">Totale</string>
+</resources>

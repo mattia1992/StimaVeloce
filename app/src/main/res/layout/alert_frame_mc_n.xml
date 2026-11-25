@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <!-- Titolo del dialog -->
+    <TextView
+        android:id="@+id/title_alert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_marginBottom="12dp" />
+
+    <!-- Campo di testo per il numero -->
+    <EditText
+        android:id="@+id/diametro_pianta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Diametro (cm)"
+        android:inputType="number" /> <!-- Fondamentale: apre la tastiera numerica -->
+    <EditText
+        android:id="@+id/altezza_pianta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Altezza (m)"
+        android:inputType="number" />
+</LinearLayout>

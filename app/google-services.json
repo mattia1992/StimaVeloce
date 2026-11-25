@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "296086781815",
+    "firebase_url": "https://stimaveloce-default-rtdb.firebaseio.com",
+    "project_id": "stimaveloce",
+    "storage_bucket": "stimaveloce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296086781815:android:a4775972210ac8d9492b72",
+        "android_client_info": {
+          "package_name": "com.example.stimaveloce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0SkOO7AhYxvtOgLuL688-mfaMHa6FRD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
